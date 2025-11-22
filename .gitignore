@@ -16,3 +16,6 @@ npm-debug.log*
 # Temporary files
 *.tmp
 *~
+
+# Large audio files (upload separately or use Git LFS)
+audio/*.mp3
